@@ -36,7 +36,7 @@ gen/**
 lib/**
 
 # Code PL file association
-*.code linguist-language=Code
+*.code linguist-language= Code
 
 
 # Scons db
