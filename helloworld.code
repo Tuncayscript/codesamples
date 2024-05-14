@@ -1,0 +1,9 @@
+module Program
+
+  procedure Main()
+
+    Output("Hello World!")
+
+  end procedure
+
+end module
